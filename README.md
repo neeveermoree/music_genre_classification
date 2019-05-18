@@ -1,5 +1,6 @@
 # Music Genre Classification
 ## Simple music genre classification with PyTorch (version 1.0.1)
+## Accuracy ~88%
 
 ![Alt text](helper_images/pytorch-logo-dark.png?raw=true "PyTorch")
 
