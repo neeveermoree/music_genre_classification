@@ -1,0 +1,10 @@
+tests/test_1.au classical
+tests/test_2.au metal
+tests/test_3.au country
+tests/test_4.au pop
+tests/test_5.au rock
+tests/test_6.au hiphop
+tests/test_7.au blues
+tests/test_8.au disco
+tests/test_9.au jazz
+tests/test_10.au reggae
